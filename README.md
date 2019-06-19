@@ -88,6 +88,7 @@ implementation 'com.jakewharton.timber:timber:4.7.1'
 
 Snapshots of the development version are available in [Sonatype's `snapshots` repository][snap].
 
+`just a test`
 
 License
 -------
